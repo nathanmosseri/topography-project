@@ -1,0 +1,8 @@
+canvas {
+  border-style: dotted ;
+  background-color: white;
+  block-size: 500px;
+  width: fit-content;
+  height: 600px;
+  align-content: center;
+}
